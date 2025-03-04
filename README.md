@@ -1,0 +1,2 @@
+# Forecasting-Earthquake-Aftershock-Locations-Using-Ensemble-Model-in-Deep-Learning-
+This project uses an Ensemble Model combining LSTM, GRU, and RNN to predict aftershock locations based on seismic data. A 1000 km radius around the main shock is analyzed to capture spatiotemporal correlations. Performance is evaluated using precision, recall, and F1 score, aiding disaster response and mitigation.
